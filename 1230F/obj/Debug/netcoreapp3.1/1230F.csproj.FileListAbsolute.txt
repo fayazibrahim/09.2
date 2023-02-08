@@ -1,0 +1,14 @@
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.exe
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.deps.json
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.runtimeconfig.json
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.runtimeconfig.dev.json
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.dll
+C:\Users\user\Documents\1230F\1230F\bin\Debug\netcoreapp3.1\1230F.pdb
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.csproj.AssemblyReference.cache
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.AssemblyInfoInputs.cache
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.AssemblyInfo.cs
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.dll
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.pdb
+C:\Users\user\Documents\1230F\1230F\obj\Debug\netcoreapp3.1\1230F.genruntimeconfig.cache
